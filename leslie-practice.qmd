@@ -1,0 +1,7 @@
+---
+title: "Leslie Matrix Practice"
+author: "J"
+format: html
+editor: visual
+---
+
